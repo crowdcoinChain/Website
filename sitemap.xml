@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <url>
+        <loc>http://crowdcoin.site/</loc>
+        <lastmod>2017-12-29T13:05:10+00:00</lastmod>
+        <priority>1.00</priority>
+    </url>
+    <url>
+        <loc>http://crowdcoin.site/documents/lean_crc.pdf</loc>
+        <lastmod>2017-12-02T12:04:45+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>http://crowdcoin.site/documents/pitch_crc.pdf</loc>
+        <lastmod>2017-12-02T12:04:45+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>http://crowdcoin.site/guides/Crowdcoin_Masternode_Setup_Guide_ubuntu_vps_1.pdf</loc>
+        <lastmod>2017-12-08T23:37:06+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>http://crowdcoin.site/guides/COLD_WALLET_ON_WINDOWS_WITH_LINUX_VPS.pdf</loc>
+        <lastmod>2017-12-14T17:43:22+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>http://crowdcoin.site/guides/Windows_hot_wallet_Sentinel_Guide.pdf</loc>
+        <lastmod>2017-12-09T14:23:08+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>http://crowdcoin.site/guides/Mining-CrowdCoin.pdf</loc>
+        <lastmod>2017-12-05T12:00:01+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+</urlset>
