@@ -110,7 +110,7 @@
                                     Arthur C. Clarke</span>
                         </h6>
                         <div class="watch-video pt-4">
-                            <a href="https://www.youtube.com/embed/cSxCZFaSgbc" class="video-play-icon text-white"><i
+                            <a href="https://youtu.be/cSxCZFaSgbc"><i
                                     class="mdi mdi-play play-icon-circle play play-iconbar"></i>
                                 <span>Watch Our Intro Video!</span></a>
                         </div>
@@ -540,7 +540,9 @@
                     <a href="guides/Crowdcoin_Masternode_Setup_Guide_ubuntu_vps_1.pdf">VPS Linux</a><br>
                     <a href="guides/COLD_WALLET_ON_WINDOWS_WITH_LINUX_VPS.pdf">Win Cold Wallet + Linux VPS</a> <br>
                     <a href="guides/Windows_hot_wallet_Sentinel_Guide.pdf">Windows Hot Wallet + Sentinel</a> <br>
-                    <a href="guides/Mining-CrowdCoin.pdf">Mining</a><br>
+                    <a href="guides/Mining-CrowdCoin.pdf">Mining</a>
+                    <br>
+                    <br>
                 </div>
             </div>
         </div>
@@ -550,7 +552,7 @@
             </div>
         </div>-->
     <!--Contact-->
-    <section class="section " id="contact">
+    <!-- <section class="section " id="contact">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-6">
@@ -562,19 +564,19 @@
             </div>
             <div class="custom-form mt-4 pt-4">
                 <div id="message"></div>
-                <form action="asset/insertForm.php" method="post">
+               <form action="asset/insertForm.php" method="post">
 				<center><p>
 					<label for="emailAddress">Email Address:</label>
 					<input type="text" name="email" id="emailAddress">
 				</p>
 				<input type="submit" value="Submit">
 				</center>
-				</form>
+				</form> 
             </div>
 
         </div>
     </section>
-
+-->
     <section class="pt-5 pb-5 bg-custom">
         <div class="container">
             <div class="row">
@@ -593,6 +595,14 @@
 <div class="footer-alt bg-dark">
     <p class="copy-rights">2018 © CrowdCoin. All Rights Reserved</p>
 </div>
+<script language="JavaScript">
+// Code for validating the form
+var frmvalidator  = new Validator("formEmail");
+frmvalidator.addValidation("email","req","Please provide your email"); 
+frmvalidator.addValidation("email","email","Please enter a valid email address"); 
+</script>
+<!--Script validator email fo -->
+<script language="JavaScript" src="scripts/gen_validatorv31.js" type="text/javascript"></script>
 
 <!-- js placed at the end of the document so the pages load faster -->
 <script src="js/jquery.min.js"></script>
