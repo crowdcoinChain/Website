@@ -436,11 +436,7 @@ span.title-border {
         SERVICES
 ============================*/
 
-.service-box {
-    /*border: 1px dotted #dddddd;*/
-    border-radius: 3px;
-    position: relative;
-}
+
 
 .service-left {
     float: left;
@@ -450,7 +446,7 @@ span.title-border {
     font-size: 40px;
     position: absolute;
     top: 30%;
-    transform: translateY(-50%);
+    transform: translateY(-20%);
 }
 .service-box .service-icon img{
   width: 50%;
@@ -782,12 +778,7 @@ textarea.form-control {
         width: auto;
         margin-left: 0%;
     }
-    .service-box .service-icon {
-        top: -15px;
-        position: relative;
-        transform: none;
-        left: 0;
-    }
+
     .vertical-content{
         display: inherit;
     }
