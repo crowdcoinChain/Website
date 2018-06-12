@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28edd49c-9ea9-46e8-93d0-a57d157b1858" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/CRC_Hot_Update_1.2.pdf" afterPath="$PROJECT_DIR$/docs/CRC_Hot_Update_1.2.pdf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -261,12 +262,12 @@
       <workItem from="1526400453898" duration="8000" />
       <workItem from="1528793656134" duration="647000" />
       <workItem from="1528796561160" duration="695000" />
-      <workItem from="1528798644280" duration="2569000" />
+      <workItem from="1528798644280" duration="2823000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25267000" />
+    <option name="totallyTimeSpent" value="25521000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="742" extended-state="1" />
