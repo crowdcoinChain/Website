@@ -5,8 +5,6 @@
     z-index: 1030;
     box-shadow:none;
     border: 0;
-    -webkit-transition: all .5s ease;
-    transition: all .5s ease;
     min-height: 62px;
 }
 
