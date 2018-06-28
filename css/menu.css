@@ -29,8 +29,6 @@
     text-transform: uppercase;
     letter-spacing: 1px;
     font-weight: 700;
-    -webkit-transition: all .3s ease;
-    transition: all .3s ease;
     line-height: 20px;
     padding-left: 15px;
     padding-right: 15px;
@@ -44,8 +42,6 @@
 #topnav .logo {
     float: left;
     line-height:65px;
-    -webkit-transition: all .3s ease;
-    transition: all .3s ease;
     color: #fff;
     font-weight:700;
     letter-spacing: 1px;
@@ -98,9 +94,6 @@
     background-color: #ffffff;
     display: block;
     margin-bottom: 5px;
-    -webkit-transition: -webkit-transform .5s ease;
-    transition: -webkit-transform .5s ease;
-    transition: transform .5s ease, -webkit-transform .5s ease;
 }
 
 #topnav .navbar-toggle span:last-child {
@@ -113,8 +106,6 @@
 
 #topnav .navbar-toggle.open span:first-child {
     top: 6px;
-    -webkit-transform: rotate(45deg);
-    transform: rotate(45deg);
 }
 
 #topnav .navbar-toggle.open span:nth-child(2) {
@@ -124,8 +115,6 @@
 #topnav .navbar-toggle.open span:last-child {
     width: 100%;
     top: 6px;
-    -webkit-transform: rotate(-45deg);
-    transform: rotate(-45deg);
 }
 
 
